@@ -83,7 +83,6 @@ msgstr "Bevestigen"
 
 #: standard input:659
 msgid "Contact form"
-msgstr "Kontaktformular"
 msgstr "Contact formulier"
 
 #: standard input:1850
@@ -361,4 +360,4 @@ msgstr ""
 "of u heeft uw wachtwoord al gewijzigd sinds het aanvragen van de wijziging."
 #: standard input:356
 msgid "Your password has been changed."
-msgstr "Uw wachtwoord is aangepast".
+msgstr "Uw wachtwoord is aangepast."
